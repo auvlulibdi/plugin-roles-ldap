@@ -48,12 +48,20 @@
     </dependency>
 -->
 
+<!--
     <dependency>
       <groupId>com.googlecode.the-fascinator.plugins</groupId>
       <artifactId>plugin-authentication-ldap-ltu</artifactId>
       <version>1.0</version>
       <scope>system</scope>
       <systemPath>/opt/plugin-roles-ldap/target/plugin-roles-ldap-1.1-SNAPSHOT-3.jar</systemPath>
+    </dependency>
+-->
+
+    <dependency>
+      <groupId>com.googlecode.the-fascinator.plugins</groupId>
+      <artifactId>plugin-authentication-ldap-ltu</artifactId>
+      <version>1.1-SNAPSHOT-4</version>
     </dependency>
 
   </dependencies>
